@@ -1,6 +1,6 @@
 # fastai-coursev3-colab
 
-Contains fastai course-v3 notebooks modified to run on Google Colab, with:
+Contains fastai course-v3 notebooks modified to run on Google Colab:
 
 1st lesson notebook: 
 - Necessary setup of the vm with the required frameworks
